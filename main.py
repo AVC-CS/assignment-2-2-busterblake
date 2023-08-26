@@ -1,6 +1,6 @@
 def main():
 
-    celsius = 23
+    celsius = int(input('Enter the temp in C: '))
     fahrenheit = (9/5)*celsius + 32
 
 
