@@ -1,10 +1,12 @@
 def main():
-    """
-    ##################################################
-    # Comlete your code here
-    Use the same variables: celsius fahrenheit 
-    ##################################################
-    """
+
+    celsius = 23
+    fahrenheit = (9/5)*celsius + 32
+
+
+    print(f"{celsius} in celcius is {fahrenheit} in fahrenheit")
+
+
 
     """
     ########################################
